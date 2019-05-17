@@ -1,7 +1,7 @@
 {
-  "name": "mixpanel-browser",
-  "version": "2.28.0",
-  "description": "The official Mixpanel JavaScript browser client library",
+  "name": "@songway/mixpanel-browser",
+  "version": "2.28.1",
+  "description": "Songway's Mixpanel JavaScript browser client library",
   "main": "build/mixpanel.cjs.js",
   "directories": {
     "test": "tests"
@@ -19,9 +19,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mixpanel/mixpanel-js.git"
+    "url": "https://github.com/sandyway/mixpanel-js.git"
   },
-  "author": "",
+  "author": "songway",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/mixpanel/mixpanel-js/issues"
